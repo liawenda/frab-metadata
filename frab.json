@@ -1,0 +1,31 @@
+{
+  "name": "FUNK RABBIT",
+  "symbol": "FRAB",
+  "description": "FUNK RABBIT (FRAB) is a community-driven Solana token. No mint, no freeze, fixed supply.",
+  "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/logo.png",
+  "external_url": "https://github.com/USERNAME/REPO",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Revoked"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Revoked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
